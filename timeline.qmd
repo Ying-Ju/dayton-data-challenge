@@ -1,0 +1,41 @@
+---
+title: "Timeline"
+---
+
+## Event Timeline
+
+::: {.timeline-item}
+### August 28, Friday
+**Registration opens**
+Students may register individually or as a team.
+:::
+
+::: {.timeline-item}
+### October 16, Friday
+**Registration Closes**
+All participants must complete registration by this date.
+:::
+
+::: {.timeline-item}
+### November 2, Monday, 6 PM
+**Kickoff + Dataset Introduction**  
+Teams receive the challenge overview and dataset information.
+:::
+
+::: {.timeline-item}
+### November 3-6, Tuesday–Friday
+**Team Analysis + Office Hours**  
+Teams work on their analyses and receive feedback from faculty, industry professionals, and advanced students.
+:::
+
+::: {.timeline-item}
+### November 6, Friday, 11 PM
+**Write-Up Due**  
+Teams submit a short write-up, maximum 2 pages.
+:::
+
+::: {.timeline-item}
+### November 7, Saturday, 10 AM
+**Presentations + Judging**  
+Teams present their findings and answer questions from judges.
+:::

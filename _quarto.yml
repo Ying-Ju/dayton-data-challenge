@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dayton Data Challenge"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: competition.qmd
+        text: Competition
+      - href: timeline.qmd
+        text: Timeline
+      - href: judging-awards.qmd
+        text: Judging & Awards
+      - href: resources.qmd
+        text: Resources
+      - href: faq.qmd
+        text: FAQ
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    left: "Hosted by the Department of Mathematics, University of Dayton"
+    right: "With support from the Data Analytics Club"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full

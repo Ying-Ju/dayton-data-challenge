@@ -1,0 +1,19 @@
+---
+title: "Resources"
+---
+
+## Workshops and Resources
+
+Workshops and resources will be posted here.
+
+Planned topics may include:
+
+- Getting started with R
+- Getting started with Python
+- Data visualization
+- Communicating data insights
+- Responsible use of AI tools
+
+## Support During the Week
+
+During the challenge, teams will have access to daily virtual and in-person office hours. Support may be provided by faculty, industry professionals, and advanced students.

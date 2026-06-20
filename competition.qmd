@@ -1,0 +1,71 @@
+---
+title: "Competition"
+---
+
+## Eligibility
+
+The Dayton Data Challenge is open to all undergraduate students at the **University of Dayton**.
+
+Students from any major and any experience level are encouraged to participate.
+
+No prior experience in data analytics, statistics, programming, or competitions is required.
+
+## Team Format
+
+- Teams of 2-4 students
+- Students may form their own teams
+- Individual sign-ups are welcome; we will help match students with teams
+
+## How It Works
+
+Unlike many competitions, participants are not asked to solve a predefined problem.
+
+Instead, teams develop their own questions, explore the dataset from their own perspective, and communicate their findings through a written summary and presentation.
+
+1. Form a team or sign up individually.
+2. Attend the kickoff and dataset introduction.
+3. Choose a research question that interests your team.
+4. Analyze the data using tools of your choice.
+5. Attend office hours for feedback and support.
+6. Submit a short write-up.
+7. Present your findings to judges.
+
+## Deliverables
+
+::: {.card-grid}
+::: {.info-card}
+### Write-Up
+Due Friday at 11 PM. Maximum 2 pages. Summarize your research question, method, and findings.
+:::
+
+::: {.info-card}
+### Presentation
+Saturday. Approximately 5 minutes plus Q&A. Focus on clear communication and meaningful insights.
+:::
+:::
+
+## Judging Focus
+
+Projects will be evaluated based on:
+
+- Insight and relevance
+- Creativity and innovation
+- Communication
+- Technical soundness
+- Teamwork
+
+See the Judging & Awards page for additional details.
+
+## Tools and Resources
+
+Students may use any tools appropriate for their analysis, including:
+
+- R
+- Python
+- Excel
+- Tableau
+- Power BI
+- AI-assisted tools
+
+Participants are responsible for understanding and explaining their work, regardless of the tools used.
+

@@ -1,0 +1,109 @@
+---
+title: ""
+format: 
+  html:
+    title-block-style: none
+---
+
+::: {.hero}
+# Dayton Data Challenge
+
+::: {.subtitle}
+Transform Data into Insight
+:::
+
+A week-long undergraduate data competition where students work in teams, analyze real-world data, develop their own research questions, and present insights to judges.
+
+[Register Soon](#){.btn-ddc .btn-primary-ddc} [Learn More](about.qmd){.btn-ddc .btn-secondary-ddc}
+:::
+
+## About the Challenge
+
+The Dayton Data Challenge is a week-long data competition at the University of Dayton. Students work in teams of 2–4, analyze real-world datasets, develop their own research questions, and present their insights to judges.
+
+## Why Participate?
+
+::: {.card-grid}
+::: {.info-card}
+### Real-World Experience
+Work with authentic datasets and practice turning data into decisions.
+:::
+
+::: {.info-card}
+### Team-Based Learning
+Collaborate with students from different majors and experience levels.
+:::
+
+::: {.info-card}
+### Professional Communication
+Present insights clearly to faculty, industry professionals, and judges.
+:::
+
+::: {.info-card}
+### Resume Building
+Earn experience, recognition, and a certificate of participation.
+:::
+:::
+
+## Quick Facts
+
+::: {.facts-grid}
+
+::: {.fact-card}
+### Open To
+All undergraduate students
+:::
+
+::: {.fact-card}
+### Team Size
+2–4 students
+:::
+
+::: {.fact-card}
+### Registration
+Opens August 28
+:::
+
+::: {.fact-card}
+### Competition Week
+November 2–7，2026
+:::
+
+:::
+
+## Event Snapshot
+
+::: {.timeline-item}
+### August 28, Friday
+Registration opens
+:::
+
+::: {.timeline-item}
+### October 16, Friday
+Registration Closes
+:::
+
+::: {.timeline-item}
+### November 2, Monday, 6 PM
+Kickoff and dataset introduction
+:::
+
+::: {.timeline-item}
+### November 3-6, Tuesday–Friday
+Team analysis and office hours
+:::
+
+::: {.timeline-item}
+### November 6, Friday, 11 PM
+Write-up due, maximum 2 pages
+:::
+
+::: {.timeline-item}
+### November 7, Saturday, 10 AM
+Presentations and judging
+:::
+
+## Sponsors and Partners
+
+Sponsor information will be announced soon.
+

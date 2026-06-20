@@ -1,0 +1,38 @@
+---
+title: "About"
+---
+
+## What Is the Dayton Data Challenge?
+
+The Dayton Data Challenge is a week-long undergraduate data competition at the University of Dayton. Students work in teams to analyze real-world data, develop their own research questions, and present insights to judges.
+
+The event is hosted by the Department of Mathematics with support from the Data Analytics Club.
+
+## What Makes It Different?
+
+Participants choose their own questions and may use the tools they prefer, including R, Python, Excel, or other data analysis tools.
+
+The challenge focuses on:
+
+::: {.card-grid}
+::: {.info-card}
+### Insight
+What did you learn from the data, and why does it matter?
+:::
+
+::: {.info-card}
+### Creativity
+How did your team approach the problem in an interesting or original way?
+:::
+
+::: {.info-card}
+### Communication
+Can your team explain the story clearly to a broad audience?
+:::
+:::
+
+::: {.story-motto}
+Ask Questions • Explore Data • Communicate Insights
+:::
+
+Unlike many competitions, participants are not evaluated on whether they reach a predetermined answer. Instead, teams are encouraged to ask meaningful questions, explore the data thoughtfully, and communicate their findings effectively.

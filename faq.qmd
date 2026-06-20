@@ -1,0 +1,41 @@
+---
+title: "FAQ"
+---
+
+## Frequently Asked Questions
+
+### Who can participate?
+
+Any undergraduate student at the **University of Dayton** may participate. Students from any major and any experience level are welcome.
+
+### Do I need prior experience?
+
+No. Prior experience in statistics, programming, or data analytics is not required. Curiosity and willingness to learn are enough.
+
+### Do I need a team before registering?
+
+No. You may register with a team or register individually. Individual participants may request help with team matching.
+
+### How many students can be on a team?
+
+Teams should have 2–4 students.
+
+### What tools can we use?
+
+Teams may use tools of their choice, including R, Python, Excel, Tableau, Power BI, or AI-assisted tools.
+
+### Can we use AI tools?
+
+Yes, but teams are responsible for understanding, explaining, and verifying their work. AI tools should support your analysis, not replace your reasoning.
+
+### When will the dataset be released?
+
+The dataset will be introduced at the kickoff session on Monday, November 2 at 6 PM.
+
+### What do teams submit?
+
+Each team submits a written summary, maximum 2 pages, by Friday, November 6 at 11 PM, and gives a short presentation on Saturday, November 7.
+
+### How long is the presentation?
+
+Presentations are expected to be approximately 5 minutes, followed by Q&A with judges.

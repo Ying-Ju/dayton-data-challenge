@@ -1,0 +1,70 @@
+---
+title: "Judging & Awards"
+---
+
+The Dayton Data Challenge is designed to reward thoughtful analysis, meaningful insights, and effective communication.
+
+Judges will evaluate projects holistically. Strong projects do not necessarily use the most advanced methods; rather, they demonstrate curiosity, sound reasoning, and clear communication of findings.
+
+## Judging Criteria
+
+Teams will be evaluated on the quality of their analysis, creativity, communication, and teamwork.
+
+::: {.card-grid}
+::: {.info-card}
+### Insight & Relevance
+The analysis addresses a meaningful question and provides useful conclusions.
+:::
+
+::: {.info-card}
+### Creativity & Innovation
+The team approaches the data in an interesting, thoughtful, or original way.
+:::
+
+::: {.info-card}
+### Clarity of Communication
+The findings are explained clearly and effectively.
+:::
+
+::: {.info-card}
+### Technical Soundness
+The analysis is appropriate, careful, and well-supported by the data.
+:::
+
+::: {.info-card}
+### Teamwork
+The team demonstrates collaboration and shared understanding.
+:::
+:::
+
+## What Makes a Strong Project?
+
+Strong projects often:
+
+- Ask meaningful questions
+- Use appropriate methods
+- Present clear visualizations
+- Communicate findings effectively
+- Connect results to real-world implications
+
+## Awards
+
+Awards may include:
+
+🥇 First Place
+
+🥈 Second Place
+
+🥉 Third Place
+
+Special awards may include:
+
+🏆 Best Visualization
+
+🏆 Most Creative Approach
+
+🏆 Best Communication
+
+🏆 Best Use of AI / Tools
+
+Participants who complete the competition will receive a certificate of participation.
